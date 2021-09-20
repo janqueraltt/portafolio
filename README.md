@@ -1,2 +1,2 @@
 # portafolio
-portafolio web template
+portafolio web template by Jan Queralt
